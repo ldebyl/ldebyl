@@ -1,6 +1,8 @@
-👋 Hi, I’m Lee de Byl -- a computer & data scientist from Perth, Western Australia, where I've previously worked for companies such as Telstra and Chevron where I have focussed on statistics, systems administration, machine learning, embedded systems and optimisation. My areas of interest include natural language processing, high performance computing, and artifical intelligence.
+👋 Hi, I'm Lee de Byl -- a computer & data scientist based in Perth, Western Australia. I've worked with major organizations including Telstra and Chevron, specializing in statistics, systems administration, machine learning, embedded systems, and optimization.
 
-You can 📫 Reach me at github@debyl.net
+My current research interests focus on natural language processing, high-performance computing, and artificial intelligence.
+
+📫 Reach me at github@debyl.net
 
 <!---
 ldebyl/ldebyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
