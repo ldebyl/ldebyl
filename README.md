@@ -2,6 +2,10 @@
 
 My current research interests focus on natural language processing, high-performance computing, and artificial intelligence.
 
+My preferred programming languages are C, Python, Haskell, Prolog and Assembler, but I am open minded.
+
+Favourite operating systems? FreeBSD, Linux, Solaris, BeOS, Mac OS X, Windows 2000, macOS - in that order ;)
+
 📫 Reach me at github@debyl.net
 
 <!---
